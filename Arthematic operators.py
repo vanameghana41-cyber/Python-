@@ -1,0 +1,13 @@
+a=30
+b=20
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
+print(a//b)
+#output
+#50
+#10
+#600
+#1.5
+#1
