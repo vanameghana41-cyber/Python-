@@ -1,5 +1,10 @@
-a=100
+a=int(input("enter the value of a"))
 if a>0:
-    print("the given number is positive")
+    print("given number is positive number")
 else:
-    print("negative number")
+        print("the given number is negative number")
+
+#enter the value of a20
+#given number is positive number
+
+        
